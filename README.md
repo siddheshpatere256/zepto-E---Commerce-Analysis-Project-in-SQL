@@ -40,8 +40,8 @@ The dataset includes product details such as categories, pricing, discounts, ava
 ---
 
 ## ✅ **Benefits**
-> Provides meaningful insights into stock levels, pricing strategies, and customer preferences.
 
+- Provides meaningful insights into stock levels, pricing strategies, and customer preferences.
 - 📦 Helps optimize inventory management.
 - 💰 Identifies pricing trends for better marketing.
 - 📊 Supports data-driven decisions.
@@ -51,7 +51,7 @@ The dataset includes product details such as categories, pricing, discounts, ava
 ## 🚀 **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/zepto-data-analysis.git
+   [git clone https://github.com/your-username/zepto-data-analysis.git](https://github.com/siddheshpatere256/zepto-E---Commerce-Analysis-Project-in-SQL/tree/main)
 2. Load the dataset into your SQL environment.
 3. Run the provided SQL scripts for data exploration, cleaning, and business insights.
 4. Analyze the results and derive actionable conclusions.
